@@ -20,7 +20,7 @@ npm run build --report
 
 ### Live Demo
 
-[Quizzer Demo](http://brandenbuilds.com/sandbox/quizzer/) - JS Framework Used
+[Quizzer Demo](http://brandenbuilds.com/sandbox/quizzer/)
 
 ## Built With
 
